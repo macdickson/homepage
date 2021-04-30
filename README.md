@@ -1,2 +1,2 @@
 # homepage
-[macdickson.app](https://macdickson.app)
+[macdickson.app](https://www.macdickson.app)
